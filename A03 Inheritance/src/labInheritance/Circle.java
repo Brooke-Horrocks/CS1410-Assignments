@@ -18,7 +18,6 @@ public class Circle {
 	private int radius;
 
 	/**
-	 * 
 	 * Constructor Circle
 	 * @param r
 	 * Constructor to take one parameter and assign it to radius

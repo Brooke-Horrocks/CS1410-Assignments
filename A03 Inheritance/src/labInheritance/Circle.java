@@ -11,7 +11,6 @@ package labInheritance;
 
 /**
  * @author Brooke
- *
  */
 public class Circle {
 	

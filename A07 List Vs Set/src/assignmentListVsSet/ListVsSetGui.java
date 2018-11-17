@@ -25,7 +25,6 @@ import javax.swing.ButtonGroup;
  * behaviors of a list and a set.
  * 
  * @author Brooke Horrocks and Margret Posch 
- *
  */
 public class ListVsSetGui extends JFrame {
 	private static final long serialVersionUID = -942561673068858105L;

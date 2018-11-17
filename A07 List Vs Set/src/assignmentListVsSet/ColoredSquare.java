@@ -8,7 +8,6 @@ public class ColoredSquare {
 	private Color color;
 	
 	/**
-	 * 
 	 * Constructor ColoredSquare
 	 * @param s side length
 	 * @param c color of square

@@ -37,7 +37,6 @@ public class RockPaperScissorsApp extends JFrame {
 	private JPanel contentPane;
 
 	/**
-	 * 
 	 * Method: main
 	 * @param args Launch the Application
 	 */

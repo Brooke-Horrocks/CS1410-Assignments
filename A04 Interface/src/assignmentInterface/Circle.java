@@ -11,7 +11,6 @@ package assignmentInterface;
 
 /**
  * @author Brooke
- *
  */
 public class Circle implements Shape {
 	
